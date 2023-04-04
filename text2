@@ -5,4 +5,8 @@ github gitbash
 uset reset command
 =======
 update file
+<<<<<<< HEAD
 >>>>>>> a2d0389847ffeee67af6259b0a6ef701f0f985ad
+=======
+new update
+>>>>>>> e259e4569ac428128e63912001001d6b8ce2f32b
